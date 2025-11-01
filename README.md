@@ -1,1 +1,1 @@
-# Apple-and-Orange2
+# Apple-and-Orange2 This code calculates how many apples and oranges fall on a house given their distances from the trees, by adding each fruit’s distance to its tree’s position and checking if it lands within the house range. It then prints the counts of apples and oranges that land on the house.
